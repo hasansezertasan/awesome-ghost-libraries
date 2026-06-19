@@ -1,19 +1,56 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  # Ghost libraries are new and niche: relax the default gates so they render.
+  min_stars: 0
+  min_projectrank: 0
+  # Spec-only repos may be unlicensed or use uncommon (e.g. CC) licenses.
+  require_license: false
+  allowed_licenses: ["all"]
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
-
-labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - category: "text-formatting"
+    title: "Text, Parsing & Formatting"
+    subtitle: "Ghost libraries for manipulating, parsing, and formatting text and structured strings."
+  - category: "system-tooling"
+    title: "System & Tooling"
+    subtitle: "Ghost libraries for filesystem locations, environments, and developer runtimes."
+  - category: "standard-libraries"
+    title: "Standard Libraries"
+    subtitle: "Broad, multi-domain ghost libraries that bundle many utilities behind a single spec."
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: whenwords
+    github_id: dbreunig/whenwords
+    category: "text-formatting"
+    description: "The original ghost library that pioneered the concept — relative time formatting (e.g. '3 hours ago')."
+
+  - name: stdlib
+    github_id: hasansezertasan/stdlib
+    category: "standard-libraries"
+    description: "Spec-only standard library spanning 15 domains (strings, collections, numbers, dates, validation, and more)."
+
+  - name: padlib
+    github_id: hasansezertasan/padlib
+    category: "text-formatting"
+    description: "String padding functions (left, right, center, zero pad) — a dependency-free answer to the left-pad incident."
+
+  - name: ualib
+    github_id: hasansezertasan/ualib
+    category: "text-formatting"
+    description: "Parse HTTP User-Agent strings to detect browsers, operating systems, devices, and bots."
+
+  - name: cronwords
+    github_id: hasansezertasan/cronwords
+    category: "text-formatting"
+    description: "Translate cron expressions into human-readable text (e.g. 'every weekday at 9 AM')."
+
+  - name: wheredirs
+    github_id: hasansezertasan/wheredirs
+    category: "system-tooling"
+    description: "Resolve standard application directories (config, cache, data, state, logs) across XDG, macOS, and Windows conventions."
+
+  - name: reporun
+    github_id: hasansezertasan/reporun
+    category: "system-tooling"
+    description: "Build standalone executables that pull and run Python projects straight from GitHub at runtime."

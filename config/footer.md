@@ -1,6 +1,16 @@
 
 ---
 
+## What qualifies as a ghost library?
+
+To be listed here, a project must contain **no implementation code** and instead provide:
+
+- **A specification** that describes the exact behavior, function by function (e.g. `SPEC.md`).
+- **Language-agnostic tests** as input/output pairs that any implementation must pass (e.g. `tests.yaml`).
+- **Install instructions** — a prompt that directs an AI coding agent to generate the implementation in the user's language of choice (e.g. `INSTALL.md`).
+
+If a repository ships ready-to-run code as its primary deliverable, it belongs on a traditional best-of list, not this one.
+
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
