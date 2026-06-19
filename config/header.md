@@ -17,4 +17,12 @@
 
 This curated list contains {project_count} awesome open-source projects with a total of {stars_count} stars grouped into {category_count} categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-ghost-libraries/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-ghost-libraries/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-ghost-libraries/edit/main/projects.yaml). Contributions are very welcome!
 
+## What is a ghost library?
+
+A **ghost library** ships _no implementation code_. Instead, each repository contains a precise specification, a language-agnostic test suite, and an install prompt. You pick your language, paste the prompt into an AI coding agent (Claude, Cursor, etc.), and it generates an implementation that satisfies the tests — directly into your own project.
+
+In other words: the spec and tests _are_ the library; the code is summoned on demand. A single spec replaces parallel implementations across every language, so there is nothing to version, package, or keep in sync.
+
+> 👻&nbsp; The term was coined by Drew Breunig in [_A Software Library with No Code_](https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html).
+
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
