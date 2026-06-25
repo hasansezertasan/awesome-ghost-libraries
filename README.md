@@ -59,7 +59,7 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 
 <details><summary><b><a href="https://github.com/dbreunig/whenwords">whenwords</a></b> (🥇9 ·  ⭐ 1.3K · 🐣) - The original ghost library that pioneered the concept relative time.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dbreunig/whenwords) (👨‍💻 3 · 🔀 79 · 📋 5 - 40% open · ⏱️ 20.01.2026):
+- [GitHub](https://github.com/dbreunig/whenwords) (👨‍💻 3 · 🔀 80 · 📋 5 - 40% open · ⏱️ 20.01.2026):
 
 	```
 	git clone https://github.com/dbreunig/whenwords
@@ -97,20 +97,20 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 
 _Ghost libraries for filesystem locations, environments, and developer runtimes._
 
+<details><summary><b><a href="https://github.com/hasansezertasan/wheredirs">wheredirs</a></b> (🥇5 · 📈) - Resolve standard application directories (config, cache, data, state, logs).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/hasansezertasan/wheredirs) (⏱️ 20.06.2026):
+
+	```
+	git clone https://github.com/hasansezertasan/wheredirs
+	```
+</details>
 <details><summary><b><a href="https://github.com/hasansezertasan/reporun">reporun</a></b> (🥇5 · 🐣) - Build standalone executables that pull and run Python projects straight from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/hasansezertasan/reporun) (⏱️ 09.06.2026):
 
 	```
 	git clone https://github.com/hasansezertasan/reporun
-	```
-</details>
-<details><summary><b><a href="https://github.com/hasansezertasan/wheredirs">wheredirs</a></b> (🥉1) - Resolve standard application directories (config, cache, data, state,.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/hasansezertasan/wheredirs) (⏱️ 08.06.2026):
-
-	```
-	git clone https://github.com/hasansezertasan/wheredirs
 	```
 </details>
 <br>
