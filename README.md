@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-7-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-10-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-ghost-libraries/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-ghost-libraries?color=green&label=updated"></a>
 </p>
 
-This curated list contains 7 awesome open-source projects with a total of 1.3K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-ghost-libraries/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-ghost-libraries/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-ghost-libraries/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 10 awesome open-source projects with a total of 1.3K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-ghost-libraries/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-ghost-libraries/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-ghost-libraries/edit/main/projects.yaml). Contributions are very welcome!
 
 ## What is a ghost library?
 
@@ -30,8 +30,10 @@ In other words: the spec and tests _are_ the library; the code is summoned on de
 ## Contents
 
 - [Text, Parsing & Formatting](#text-parsing--formatting) _4 projects_
-- [System & Tooling](#system--tooling) _2 projects_
+- [System & Tooling](#system--tooling) _3 projects_
 - [Standard Libraries](#standard-libraries) _1 projects_
+- [Apps & Games](#apps--games) _1 projects_
+- [UI Components](#ui-components) _1 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -97,7 +99,7 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 
 _Ghost libraries for filesystem locations, environments, and developer runtimes._
 
-<details><summary><b><a href="https://github.com/hasansezertasan/wheredirs">wheredirs</a></b> (🥇5 · 📈) - Resolve standard application directories (config, cache, data, state, logs).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hasansezertasan/wheredirs">wheredirs</a></b> (🥇5) - Resolve standard application directories (config, cache, data, state, logs).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/hasansezertasan/wheredirs) (⏱️ 20.06.2026):
 
@@ -111,6 +113,14 @@ _Ghost libraries for filesystem locations, environments, and developer runtimes.
 
 	```
 	git clone https://github.com/hasansezertasan/reporun
+	```
+</details>
+<details><summary><b><a href="https://github.com/rarpainting/nl-edge-tts">nl-edge-tts</a></b> (🥉2 ·  ⭐ 1 · 🐣) - Synthesize speech from text via Microsoft Edges Text-to-Speech.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/rarpainting/nl-edge-tts) (⏱️ 12.01.2026):
+
+	```
+	git clone https://github.com/rarpainting/nl-edge-tts
 	```
 </details>
 <br>
@@ -127,6 +137,38 @@ _Broad, multi-domain ghost libraries that bundle many utilities behind a single 
 
 	```
 	git clone https://github.com/hasansezertasan/stdlib
+	```
+</details>
+<br>
+
+## Apps & Games
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Ghost libraries whose spec summons a complete runnable application or game rather than a utility._
+
+<details><summary><b><a href="https://github.com/Randroids-Dojo/VibeTCG">VibeTCG</a></b> (🥇1 · 🐣) - Turn one card-battler game design doc into a playable browser game via.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/Randroids-Dojo/VibeTCG) (🔀 1 · ⏱️ 23.05.2026):
+
+	```
+	git clone https://github.com/Randroids-Dojo/VibeTCG
+	```
+</details>
+<br>
+
+## UI Components
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Ghost libraries that specify reusable user-interface components and their behavior._
+
+<details><summary><b><a href="https://github.com/muhaimincs/carouselWords">carouselWords</a></b> (🥇4 · 🐣) - A carousel/slider UI component options, methods, events,.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/muhaimincs/carouselWords) (👨‍💻 2 · ⏱️ 08.05.2026):
+
+	```
+	git clone https://github.com/muhaimincs/carouselWords
 	```
 </details>
 
