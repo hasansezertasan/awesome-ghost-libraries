@@ -18,6 +18,12 @@ categories:
   - category: "standard-libraries"
     title: "Standard Libraries"
     subtitle: "Broad, multi-domain ghost libraries that bundle many utilities behind a single spec."
+  - category: "apps-games"
+    title: "Apps & Games"
+    subtitle: "Ghost libraries whose spec summons a complete runnable application or game rather than a utility."
+  - category: "ui-components"
+    title: "UI Components"
+    subtitle: "Ghost libraries that specify reusable user-interface components and their behavior."
 
 projects:
   - name: whenwords
@@ -54,3 +60,18 @@ projects:
     github_id: hasansezertasan/reporun
     category: "system-tooling"
     description: "Build standalone executables that pull and run Python projects straight from GitHub at runtime."
+
+  - name: nl-edge-tts
+    github_id: rarpainting/nl-edge-tts
+    category: "system-tooling"
+    description: "Synthesize speech from text via Microsoft Edge's Text-to-Speech service — spec, protocol, and tests only."
+
+  - name: VibeTCG
+    github_id: Randroids-Dojo/VibeTCG
+    category: "apps-games"
+    description: "Turn one card-battler game design doc into a playable browser game via any coding agent, with 38 test cases and a golden trace."
+
+  - name: carouselWords
+    github_id: muhaimincs/carouselWords
+    category: "ui-components"
+    description: "A carousel/slider UI component — options, methods, events, plugins, and accessibility behavior specified, with no code."
