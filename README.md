@@ -59,23 +59,15 @@ In other words: the spec and tests _are_ the library; the code is summoned on de
 
 _Ghost libraries for manipulating, parsing, and formatting text and structured strings._
 
-<details><summary><b><a href="https://github.com/dbreunig/whenwords">whenwords</a></b> (🥇9 ·  ⭐ 1.3K · 🐣) - The original ghost library that pioneered the concept relative time.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dbreunig/whenwords">whenwords</a></b> (🥇10 ·  ⭐ 1.3K · 🐣) - The original ghost library that pioneered the concept relative.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dbreunig/whenwords) (👨‍💻 3 · 🔀 80 · 📋 5 - 40% open · ⏱️ 20.01.2026):
+- [GitHub](https://github.com/dbreunig/whenwords) (👨‍💻 3 · 🔀 81 · 📋 5 - 40% open · ⏱️ 20.01.2026):
 
 	```
 	git clone https://github.com/dbreunig/whenwords
 	```
 </details>
-<details><summary><b><a href="https://github.com/hasansezertasan/ualib">ualib</a></b> (🥈5 · 🐣) - Parse HTTP User-Agent strings to detect browsers, operating systems, devices, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/hasansezertasan/ualib) (⏱️ 21.04.2026):
-
-	```
-	git clone https://github.com/hasansezertasan/ualib
-	```
-</details>
-<details><summary><b><a href="https://github.com/hasansezertasan/padlib">padlib</a></b> (🥉4 · 🐣) - String padding functions (left, right, center, zero pad) a dependency-free answer.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hasansezertasan/padlib">padlib</a></b> (🥈5 · 🐣) - String padding functions (left, right, center, zero pad) a dependency-free answer.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/hasansezertasan/padlib) (⏱️ 08.02.2026):
 
@@ -83,7 +75,15 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 	git clone https://github.com/hasansezertasan/padlib
 	```
 </details>
-<details><summary><b><a href="https://github.com/hasansezertasan/cronwords">cronwords</a></b> (🥉3) - Translate cron expressions into human-readable text (e.g. every weekday at 9 AM). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hasansezertasan/ualib">ualib</a></b> (🥉4 · 🐣) - Parse HTTP User-Agent strings to detect browsers, operating systems, devices, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/hasansezertasan/ualib) (⏱️ 21.04.2026):
+
+	```
+	git clone https://github.com/hasansezertasan/ualib
+	```
+</details>
+<details><summary><b><a href="https://github.com/hasansezertasan/cronwords">cronwords</a></b> (🥉3 · 🐣) - Translate cron expressions into human-readable text (e.g. every weekday at 9.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/hasansezertasan/cronwords) (⏱️ 15.06.2026):
 
@@ -99,7 +99,7 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 
 _Ghost libraries for filesystem locations, environments, and developer runtimes._
 
-<details><summary><b><a href="https://github.com/hasansezertasan/wheredirs">wheredirs</a></b> (🥇5) - Resolve standard application directories (config, cache, data, state, logs).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hasansezertasan/wheredirs">wheredirs</a></b> (🥇5 · 🐣) - Resolve standard application directories (config, cache, data, state, logs).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/hasansezertasan/wheredirs) (⏱️ 20.06.2026):
 
@@ -115,7 +115,7 @@ _Ghost libraries for filesystem locations, environments, and developer runtimes.
 	git clone https://github.com/hasansezertasan/reporun
 	```
 </details>
-<details><summary><b><a href="https://github.com/rarpainting/nl-edge-tts">nl-edge-tts</a></b> (🥉2 ·  ⭐ 1 · 🐣) - Synthesize speech from text via Microsoft Edges Text-to-Speech.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rarpainting/nl-edge-tts">nl-edge-tts</a></b> (🥉3 ·  ⭐ 1 · 🐣) - Synthesize speech from text via Microsoft Edges Text-to-Speech.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/rarpainting/nl-edge-tts) (⏱️ 12.01.2026):
 
