@@ -61,7 +61,7 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 
 <details><summary><b><a href="https://github.com/dbreunig/whenwords">whenwords</a></b> (🥇10 ·  ⭐ 1.3K · 🐣) - The original ghost library that pioneered the concept relative.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dbreunig/whenwords) (👨‍💻 3 · 🔀 81 · 📋 5 - 40% open · ⏱️ 20.01.2026):
+- [GitHub](https://github.com/dbreunig/whenwords) (👨‍💻 3 · 🔀 82 · 📋 5 - 40% open · ⏱️ 20.01.2026):
 
 	```
 	git clone https://github.com/dbreunig/whenwords
