@@ -1,0 +1,11 @@
+,name,github_id,category,description,homepage,contributor_count,projectrank,show,trending,projectrank_placing
+0,whenwords,dbreunig/whenwords,text-formatting,The original ghost library that pioneered the concept relative time formatting (e.g. 3 hours ago).,{},3.0,0,False,-10.0,
+1,stdlib,hasansezertasan/stdlib,standard-libraries,"Spec-only standard library spanning 15 domains (strings, collections, numbers, dates, validation, and more).",{},,0,False,,
+2,padlib,hasansezertasan/padlib,text-formatting,"String padding functions (left, right, center, zero pad) a dependency-free answer to the left-pad incident.",{},,0,False,-5.0,
+3,ualib,hasansezertasan/ualib,text-formatting,"Parse HTTP User-Agent strings to detect browsers, operating systems, devices, and bots.",{},,0,False,,
+4,cronwords,hasansezertasan/cronwords,text-formatting,Translate cron expressions into human-readable text (e.g. every weekday at 9 AM).,{},,0,False,,
+5,wheredirs,hasansezertasan/wheredirs,system-tooling,"Resolve standard application directories (config, cache, data, state, logs) across XDG, macOS, and Windows conventions.",{},,0,False,-5.0,
+6,reporun,hasansezertasan/reporun,system-tooling,Build standalone executables that pull and run Python projects straight from GitHub at runtime.,{},,0,False,-5.0,
+7,nl-edge-tts,rarpainting/nl-edge-tts,system-tooling,"Synthesize speech from text via Microsoft Edges Text-to-Speech service spec, protocol, and tests only.",{},,0,False,,
+8,VibeTCG,Randroids-Dojo/VibeTCG,apps-games,"Turn one card-battler game design doc into a playable browser game via any coding agent, with 38 test cases and a..",{},,0,False,,
+9,carouselWords,muhaimincs/carouselWords,ui-components,"A carousel/slider UI component options, methods, events, plugins, and accessibility behavior specified, with no code.",{},2.0,-1,False,-5.0,1.0
