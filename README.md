@@ -75,7 +75,7 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 	git clone https://github.com/hasansezertasan/padlib
 	```
 </details>
-<details><summary><b><a href="https://github.com/hasansezertasan/ualib">ualib</a></b> (🥈5 · 📈) - Parse HTTP User-Agent strings to detect browsers, operating systems, devices, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hasansezertasan/ualib">ualib</a></b> (🥈5) - Parse HTTP User-Agent strings to detect browsers, operating systems, devices, and bots. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/hasansezertasan/ualib) (⏱️ 21.04.2026):
 
@@ -99,7 +99,7 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 
 _Ghost libraries for filesystem locations, environments, and developer runtimes._
 
-<details><summary><b><a href="https://github.com/hasansezertasan/reporun">reporun</a></b> (🥇5 · 📈) - Build standalone executables that pull and run Python projects straight from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hasansezertasan/reporun">reporun</a></b> (🥇5) - Build standalone executables that pull and run Python projects straight from GitHub.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/hasansezertasan/reporun) (⏱️ 09.06.2026):
 
