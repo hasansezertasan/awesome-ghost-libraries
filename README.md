@@ -61,15 +61,15 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 
 <details><summary><b><a href="https://github.com/dbreunig/whenwords">whenwords</a></b> (🥇10 ·  ⭐ 1.3K · 💤) - The original ghost library that pioneered the concept relative.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dbreunig/whenwords) (👨‍💻 3 · 🔀 82 · 📋 5 - 40% open · ⏱️ 20.01.2026):
+- [GitHub](https://github.com/dbreunig/whenwords) (👨‍💻 3 · 🔀 83 · 📋 6 - 50% open · ⏱️ 20.01.2026):
 
 	```
 	git clone https://github.com/dbreunig/whenwords
 	```
 </details>
-<details><summary><b><a href="https://github.com/hasansezertasan/padlib">padlib</a></b> (🥈5 · 💤) - String padding functions (left, right, center, zero pad) a dependency-free answer.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hasansezertasan/padlib">padlib</a></b> (🥈5) - String padding functions (left, right, center, zero pad) a dependency-free answer to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hasansezertasan/padlib) (⏱️ 08.02.2026):
+- [GitHub](https://github.com/hasansezertasan/padlib) (⏱️ 14.10.2026):
 
 	```
 	git clone https://github.com/hasansezertasan/padlib
@@ -77,7 +77,7 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 </details>
 <details><summary><b><a href="https://github.com/hasansezertasan/ualib">ualib</a></b> (🥈5) - Parse HTTP User-Agent strings to detect browsers, operating systems, devices, and bots. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hasansezertasan/ualib) (⏱️ 21.04.2026):
+- [GitHub](https://github.com/hasansezertasan/ualib) (⏱️ 14.10.2026):
 
 	```
 	git clone https://github.com/hasansezertasan/ualib
@@ -85,7 +85,7 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 </details>
 <details><summary><b><a href="https://github.com/hasansezertasan/cronwords">cronwords</a></b> (🥉3 · 🐣) - Translate cron expressions into human-readable text (e.g. every weekday at 9.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hasansezertasan/cronwords) (⏱️ 15.06.2026):
+- [GitHub](https://github.com/hasansezertasan/cronwords) (⏱️ 14.10.2026):
 
 	```
 	git clone https://github.com/hasansezertasan/cronwords
@@ -99,20 +99,20 @@ _Ghost libraries for manipulating, parsing, and formatting text and structured s
 
 _Ghost libraries for filesystem locations, environments, and developer runtimes._
 
-<details><summary><b><a href="https://github.com/hasansezertasan/reporun">reporun</a></b> (🥇5) - Build standalone executables that pull and run Python projects straight from GitHub.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hasansezertasan/wheredirs">wheredirs</a></b> (🥇4 · 🐣) - Resolve standard application directories (config, cache, data, state, logs).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hasansezertasan/reporun) (⏱️ 09.06.2026):
-
-	```
-	git clone https://github.com/hasansezertasan/reporun
-	```
-</details>
-<details><summary><b><a href="https://github.com/hasansezertasan/wheredirs">wheredirs</a></b> (🥉4 · 🐣) - Resolve standard application directories (config, cache, data, state, logs).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/hasansezertasan/wheredirs) (⏱️ 20.06.2026):
+- [GitHub](https://github.com/hasansezertasan/wheredirs) (⏱️ 14.10.2026):
 
 	```
 	git clone https://github.com/hasansezertasan/wheredirs
+	```
+</details>
+<details><summary><b><a href="https://github.com/hasansezertasan/reporun">reporun</a></b> (🥇4 · 📉) - Build standalone executables that pull and run Python projects straight from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/hasansezertasan/reporun) (⏱️ 14.10.2026):
+
+	```
+	git clone https://github.com/hasansezertasan/reporun
 	```
 </details>
 <details><summary><b><a href="https://github.com/rarpainting/nl-edge-tts">nl-edge-tts</a></b> (🥉3 ·  ⭐ 1 · 💤) - Synthesize speech from text via Microsoft Edges Text-to-Speech.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -133,7 +133,7 @@ _Broad, multi-domain ghost libraries that bundle many utilities behind a single 
 
 <details><summary><b><a href="https://github.com/hasansezertasan/stdlib">stdlib</a></b> (🥇3) - Spec-only standard library spanning 15 domains (strings, collections,.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/hasansezertasan/stdlib) (⏱️ 09.06.2026):
+- [GitHub](https://github.com/hasansezertasan/stdlib) (⏱️ 14.10.2026):
 
 	```
 	git clone https://github.com/hasansezertasan/stdlib
