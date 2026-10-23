@@ -101,13 +101,13 @@ _Ghost libraries for filesystem locations, environments, and developer runtimes.
 
 <details><summary><b><a href="https://github.com/hasansezertasan/wheredirs">wheredirs</a></b> (🥇4 · 🐣) - Resolve standard application directories (config, cache, data, state, logs).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hasansezertasan/wheredirs) (⏱️ 14.10.2026):
+- [GitHub](https://github.com/hasansezertasan/wheredirs) (⏱️ 19.10.2026):
 
 	```
 	git clone https://github.com/hasansezertasan/wheredirs
 	```
 </details>
-<details><summary><b><a href="https://github.com/hasansezertasan/reporun">reporun</a></b> (🥇4 · 📉) - Build standalone executables that pull and run Python projects straight from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hasansezertasan/reporun">reporun</a></b> (🥇4) - Build standalone executables that pull and run Python projects straight from GitHub.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/hasansezertasan/reporun) (⏱️ 14.10.2026):
 
